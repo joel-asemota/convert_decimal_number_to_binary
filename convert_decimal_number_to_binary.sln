@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "convert_decimal_number_to_binary", "convert_decimal_number_to_binary\convert_decimal_number_to_binary.pyproj", "{CA0CD755-8BB8-486F-A0FF-8B3B18423ACF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA0CD755-8BB8-486F-A0FF-8B3B18423ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA0CD755-8BB8-486F-A0FF-8B3B18423ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EF9CDD8-A123-4CEC-B087-CD8EA8BC5E14}
+	EndGlobalSection
+EndGlobal
